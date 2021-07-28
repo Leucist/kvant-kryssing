@@ -1,6 +1,6 @@
 Проект Kryssing
 
-[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/Leucist/web_okna)
+[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://github.com/Leucist/kvant-kryssing)
 
 Запуск бота осуществляется исполнением файла "kryssing.py" (интерпритатор python).
 Далее бот становится активным и доступным для использования через мессенджер Telegram по ссылке https://t.me/kryssingbot
